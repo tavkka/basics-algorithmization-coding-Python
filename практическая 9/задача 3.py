@@ -15,4 +15,5 @@ while cost >= 5:
 while cost >= 1:
     moneta += 1
     cost -= 1
+    
 print(f"Минимальное количество трубуемых монет {moneta}")
